@@ -4,7 +4,7 @@ ____
 *Laboratory works in assembly for the institute*
 
 
-## 1️⃣ Вычислить выражение / Calculate Expressin (lr_calculate_expression):
+## 1️⃣ Вычислить выражение / Calculate Expression (lr_calculate_expression):
 
 Разработать программу реализации циклического процесса.
 
