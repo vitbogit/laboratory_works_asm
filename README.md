@@ -1,7 +1,7 @@
 # Лабораторные работы Ассемблер / Laboratory works Assembler
 Лабораторные работы на ассемблере для института
 ____
-*Laboratory work in assembler for the institute*
+*Laboratory works in assembler for the institute*
 
 
 ## 1️⃣ Вычислить выражение / Calculate Expressin (lr_calculate_expression):
