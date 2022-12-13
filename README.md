@@ -38,9 +38,25 @@ Use an inline assembly, compare the results with those obtained using the C++ co
 ## 
 
 ## 2️⃣ Линейный процесс / Linear process (lr_linear_process):
+
+Цель работы: освоить программирование линейных участков программ с использованием логических операторов языка Ассемблера.
+
+Задание: Разработать ассемблер-программу реализации линейного процесса.
+
+Расчетная формула: (not a) ∧ b ∨ c ∧ (not d)
+
+Аргументы: a=66, b=51, c=-28, d=12
+
 **💻 [Открыть код]()**
 ____
 
+The purpose of the work: to master the programming of linear sections of programs using the logical operators of the Assembly language.
+
+Task: Develop an assembler program for the implementation of a linear process.
+
+Calculation formula: (not a) ∧ b ∨ c ∧ (not d)
+
+Arguments: a=66, b=51, c=-28, d=12
 
 **💻 [Open code]()**
 
