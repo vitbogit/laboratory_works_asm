@@ -47,7 +47,7 @@ Use an inline assembly, compare the results with those obtained using the C++ co
 
 Аргументы: a=66, b=51, c=-28, d=12
 
-**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_linear_process.asm)**
+**💻 [Открыть код (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_linear_process.asm)**
 ____
 
 The purpose of the work: to master the programming of linear sections of programs using the logical operators of the Assembly language.
@@ -58,7 +58,7 @@ Calculation formula: (not a) ∧ b ∨ c ∧ (not d)
 
 Arguments: a=66, b=51, c=-28, d=12
 
-**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_linear_process.asm)**
+**💻 [Open code (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_linear_process.asm)**
 
 
 ## 
