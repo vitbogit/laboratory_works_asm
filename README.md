@@ -4,11 +4,11 @@ ____
 *Laboratory works in assembly for the institute*
 
 
-## 1️⃣ Вычислить выражение / Calculate Expression (lr_calculate_expression):
+## 1️⃣ Циклический процесс / Cyclic process (lr_сyclic_process):
 
 Разработать программу реализации циклического процесса.
 
-Вычисляется выражение типа Y = Y1, X<0; Y2, X=0; Y3, X>0
+Вычисляется выражение типа Y = Y1, X<0; Y2, X=0; Y3, X>0 для целых X из [-4;4]
 
 - Y1 = (b + x) / a
 - Y2 = (5 + b · c)
@@ -23,7 +23,7 @@ ____
 
 Develop a program for the implementation of the cyclic process.
 
-An expression like Y = Y1, X<0; Y2,X=0; Y3,X>0
+An expression like Y = Y1, X<0; Y2,X=0; Y3,X>0 for integer X from [-4;4]
 
 - Y1 = (b + x) / a
 - Y2 = (5 + b c)
@@ -37,7 +37,7 @@ Use an inline assembly, compare the results with those obtained using the C++ co
 
 ## 
 
-
+## 2️⃣ Линейный процесс / Linear process (lr_linear_process):
 **💻 [Открыть код]()**
 ____
 
