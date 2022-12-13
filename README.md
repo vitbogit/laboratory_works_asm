@@ -63,9 +63,15 @@ Arguments: a=66, b=51, c=-28, d=12
 
 ## 3️⃣ Циклический процесс с переводом в десятичную систему / Сyclic process with conversion to decimal system (lr_cyclic_process_with_conversion_to_decimal)
 
+1. Разработать программу в Турбо-ассемблере для реализации циклического процесса. 
 
-**💻 [Открыть код]()**
+2. Результаты должны быть преобразованы в десятичную систему счисления и представлены на экране.
+
+**💻 [Открыть код (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_cyclic_process_with_conversion_to_decimal.asm)**
 ____
 
+1. Develop a program in Turbo assembler to implement a cyclic process.
 
-**💻 [Open code]()**
+2. The results must be converted to decimal and presented on the screen.
+
+**💻 [Open code (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_cyclic_process_with_conversion_to_decimal.asm)**
