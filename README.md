@@ -1,7 +1,11 @@
 # Лабораторные работы Ассемблер / Laboratory works Assembly
-Лабораторные работы на ассемблере для института
+Лабораторные работы на ассемблере для института. 
+
+Код работает в эмуляторе emu8086 4.08
 ____
 *Laboratory works in assembly for the institute*
+
+*Code works in emu8086 4.08 emulator*
 
 
 ## 1️⃣ Циклический процесс / Cyclic process (lr_сyclic_process):
