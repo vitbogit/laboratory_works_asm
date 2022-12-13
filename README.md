@@ -18,7 +18,7 @@ ____
 Использовать inline assembler, сравнить рельзутаты с полученными при помощи кода на C++.
 
 **💻 [Открыть код (inline asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_calculate_expression.cpp)**
-**💻 [Открыть код (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_calculate_expression.asm)
+**💻 [Открыть код (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_calculate_expression.asm)**
 ____
 
 Develop a program for the implementation of the cyclic process.
@@ -33,7 +33,7 @@ An expression like Y = Y1, X<0; Y2,X=0; Y3,X>0
 Use an inline assembler, compare the results with those obtained using the C++ code.
 
 **💻 [Open code (inline asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_calculate_expression.cpp)**
-**💻 [Open codeд (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_calculate_expression.asm)
+**💻 [Open codeд (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_calculate_expression.asm)**
 
 ## 
 
