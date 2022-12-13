@@ -33,7 +33,7 @@ An expression like Y = Y1, X<0; Y2,X=0; Y3,X>0
 Use an inline assembly, compare the results with those obtained using the C++ code.
 
 **💻 [Open code (inline asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_calculate_expression.cpp)**
-**💻 [Open codeд (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_calculate_expression.asm)**
+**💻 [Open code (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_calculate_expression.asm)**
 
 ## 
 
