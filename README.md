@@ -61,7 +61,7 @@ Arguments: a=66, b=51, c=-28, d=12
 **💻 [Open code (asm)](https://github.com/countsheeptosleep/laboratory_works_asm/blob/main/lr_linear_process.asm)**
 
 
-## 
+## 3️⃣ Циклический процесс с переводом в десятичную систему / Сyclic process with conversion to decimal system (lr_cyclic_process_with_conversion_to_decimal)
 
 
 **💻 [Открыть код]()**
